@@ -1,1 +1,1 @@
-print("hello world")
+你好呀，我好想你
